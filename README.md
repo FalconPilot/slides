@@ -1,1 +1,3 @@
-# slides
+# Slides
+
+Slides made with Pandoc for small talks, learning lunches, etc...
